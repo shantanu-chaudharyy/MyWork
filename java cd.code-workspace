@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "my-worksheet",
+			"path": "../JavaProject/my-worksheet"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src",
+			"conditionInJava",
+			"Patterns"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
